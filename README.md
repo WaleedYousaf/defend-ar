@@ -40,3 +40,9 @@ the impact will be different for every weapon. Because the game is physics based
 sides will be shown. The enemies will progressively get better as levels progress. Whatever is 
 happening in the game, the system will allow the user to view it in 3D as the user tilts and rotates 
 phone to enhance AR experience.
+
+In Action:
+----------
+![DefendAR_Flyer_Main](https://user-images.githubusercontent.com/44428566/129480831-c7fe7c24-53ee-4682-b923-6ea746b8acc1.jpg)
+
+https://user-images.githubusercontent.com/44428566/129480799-7fe03862-4e63-40b3-99c2-b6055d74411d.mp4
