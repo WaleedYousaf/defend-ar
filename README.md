@@ -10,8 +10,8 @@ Stack (Tools and Technologies):
 -------------------------------
 
 - Technologies:
-  - <b>C#</b> (Base language of the project for scripting)
-  - <b>Javascript</b> (Some of the scripts of the game)
+  - <b>C#</b> - Game Scripts
+  - <b>Javascript</b> - Game Scripts
 - Tools:
   - <b>Unity 3D</b> - Game Engine
   - <b>Vuforia SDK</b> - Augmentation of 3D Objects
