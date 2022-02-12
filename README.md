@@ -6,6 +6,8 @@ Brief:
 
 DefendAR is an augmented reality based defense strategy game. Its developed in Unity game engine and Vuforia SDK is used for Augmented Reality. It has 11 different levels, 9 weapons and around 8 different artificially intelligent enemies.
 
+Designed and Developed in 2019
+
 Stack (Tools and Technologies):
 -------------------------------
 
